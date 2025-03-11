@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Đưa ông về",
+    "shortContent": "Mô tả ngắn gọn",
+    "fullContent": "Đây là nội dung chi tiết của hoạt động 1.",
+    "thumbnail": "/images/pdq/IMG_8450.JPG",
+    "images": [
+      "/images/pdq/IMG_8396.JPG",
+      "/images/pdq/IMG_8419.JPG",
+      "/images/pdq/IMG_8421.JPG",
+      "/images/pdq/IMG_8422.JPG",
+      "/images/pdq/IMG_8423.JPG",
+      "/images/pdq/IMG_8424.JPG",
+      "/images/pdq/IMG_8425.JPG",
+      "/images/pdq/IMG_8434.JPG",
+      "/images/pdq/IMG_8437.JPG",
+      "/images/pdq/IMG_8446.JPG",
+      "/images/pdq/IMG_8447.JPG",
+      "/images/pdq/IMG_8448.JPG",
+      "/images/pdq/IMG_8449.JPG",
+      "/images/pdq/IMG_8450.JPG"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hoạt động 2",
+    "shortContent": "Mô tả ngắn gọn về hoạt động 2.",
+    "fullContent": "Đây là nội dung chi tiết của hoạt động 2.",
+    "thumbnail": "/images/pdq/IMG_8450.JPG",
+    "images": ["/images/pdq/IMG_8396.JPG", "/images/pdq/IMG_8419.JPG"]
+  }
+]
